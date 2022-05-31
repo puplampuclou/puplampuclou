@@ -3,7 +3,7 @@ variable "project" {
 }
 
 variable "credentials_file" { 
-  default = "/home/rodneyadmin/apigee-anthos-lab-01-8b398c25ec72.json"
+  default = "/home/rodneyadmin/apigee-anthos-lab-01-c8e8dd939a9f.json"
 }
 
 variable "region" {
